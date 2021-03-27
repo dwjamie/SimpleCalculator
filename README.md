@@ -1,4 +1,4 @@
-# CppCalculator
+# SimpleCalculator
 
 使用C，运用数据结构知识，实现了一个具有简单交互界面的计算器程序，具有的功能包括：
 
